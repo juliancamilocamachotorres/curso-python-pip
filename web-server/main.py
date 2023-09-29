@@ -16,7 +16,8 @@ def get_list():
             <title>Test</title>
             </head>
             <body>
-            <h1>Look ma! HTML!</h1>
+            <h1>Esta funcionado el web-server</h1>
+            <p>Soy Julian</p>
             </body>
             </html>
             """
